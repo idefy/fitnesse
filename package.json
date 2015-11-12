@@ -1,0 +1,23 @@
+{
+  "name": "fitnesse",
+  "version": "20131110.0.0",
+  "description": "A simple package providing the FitNesse application, the fully integrated standalone wiki and acceptance testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idefy/fitnesse.git"
+  },
+  "keywords": [
+    "fitnesse",
+    "npm"
+  ],
+  "author": "Igor DeFaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idefy/fitnesse/issues"
+  },
+  "homepage": "https://github.com/idefy/fitnesse"
+}
