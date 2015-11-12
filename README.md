@@ -1,7 +1,7 @@
 # FitNesse
 A simple package providing the [FitNesse](http://fitnesse.org/) application, the fully integrated standalone wiki and acceptance testing framework.
 
-Version: 20150226
+Version: 20150424
 
 ## Installing
 Install via NPM
