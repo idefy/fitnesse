@@ -1,6 +1,6 @@
 {
   "name": "fitnesse",
-  "version": "20140623.0.0",
+  "version": "20140630.0.0",
   "description": "A simple package providing the FitNesse application, the fully integrated standalone wiki and acceptance testing framework.",
   "main": "index.js",
   "scripts": {
